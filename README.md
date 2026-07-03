@@ -96,7 +96,7 @@ LCS-Analyzer/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/LCS-Analyzer.git
+git clone https://github.com/RokshanaARubi/LCS-Analyzer.git
 ```
 
 2. Navigate to the project directory.
@@ -108,7 +108,7 @@ cd LCS-Analyzer
 3. Run the application.
 
 ```bash
-python main.py
+python lcs_app.py
 ```
 
 ---
@@ -129,7 +129,8 @@ python main.py
 
 ## Screenshots
 
-Add screenshots here after uploading your project.
+<img width="1617" height="1012" alt="image" src="https://github.com/user-attachments/assets/255bdbd1-7ba7-4d03-8f5b-9bdd7d65bbff" />
+
 
 Example:
 
