@@ -81,12 +81,12 @@ Mouse=GTACCTAGGCTAAC
 ## Project Structure
 
 ```
-LCS-Analyzer/
+lcs-analyzer/
 │
-├── main.py
+├── lcs_app.py
 ├── input.txt
 ├── README.md
-└── screenshots/
+└── Poster pdf.pdf
 ```
 
 ---
@@ -102,7 +102,7 @@ git clone https://github.com/RokshanaARubi/LCS-Analyzer.git
 2. Navigate to the project directory.
 
 ```bash
-cd LCS-Analyzer
+cd lcs-analyzer
 ```
 
 3. Run the application.
